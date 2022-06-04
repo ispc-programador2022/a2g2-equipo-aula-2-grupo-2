@@ -1,1 +1,4 @@
-print('Primer commit desde VSC')
+from termios import VSC
+
+
+Primer commit desde VSC

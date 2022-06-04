@@ -1,4 +1,1 @@
-from termios import VSWTC
-
-
-Primer commit desde VSC
+print('Primer commit desde VSC')

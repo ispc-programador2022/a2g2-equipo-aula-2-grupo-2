@@ -5,4 +5,5 @@ Vayamos agregando cada integrante del grupo su nombre:
 
 *Federico Bellon
 *Amira Brizuela
+*Nicolás Berenstein
 

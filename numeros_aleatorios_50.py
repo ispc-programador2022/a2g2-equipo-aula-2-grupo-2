@@ -1,7 +1,4 @@
-from operator import le
 from random import random
-
-
 import random
 
 def lista_aleatoria():

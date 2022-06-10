@@ -7,3 +7,4 @@ Vayamos agregando cada integrante del grupo su nombre:
 *Amira Brizuela
 *Nicolás Berenstein
 *Juan Cruz Boriani
+*Joel Santiago Becker

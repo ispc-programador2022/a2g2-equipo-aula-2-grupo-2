@@ -9,3 +9,4 @@ Vayamos agregando cada integrante del grupo su nombre:
 *Juan Cruz Boriani
 *Joel Santiago Becker
 *Nicolas  Caceres 
+*María Paula Badin

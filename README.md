@@ -3,7 +3,7 @@
 
 ## Tecnicatura superior en ciencia de datos e inteligencia artificial
 
-### Instituto Superior Politecnico de Cordoba
+## Instituto Superior Politecnico de Cordoba
 
 
 

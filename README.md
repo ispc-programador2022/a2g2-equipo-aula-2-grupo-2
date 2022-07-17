@@ -1,7 +1,14 @@
-## a2g2-equipo-aula-2-grupo-2
-a2g2-equipo-aula-2-grupo-2 created by GitHub Classroom
+#### Tecnicatura superior en ciencia de datos e inteligencia artificial
 
-Vayamos agregando cada integrante del grupo su nombre:
+###Instituto Superior Politecnico de Cordoba
+
+##Grupo de trabajo N°2 - Aula N°2
+
+#
+
+
+Integrantes:
+
   <li> Federico Bellon
   <li> Amira Brizuela
   <li> Nicolás Berenstein

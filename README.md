@@ -1,9 +1,9 @@
 
-# Grupo de trabajo N°2 - Aula N°2
+### Grupo de trabajo N°2 - Aula N°2
 
-## Tecnicatura superior en ciencia de datos e inteligencia artificial
+#### Tecnicatura superior en ciencia de datos e inteligencia artificial
 
-## Instituto Superior Politecnico de Cordoba
+#### Instituto Superior Politecnico de Cordoba
 
 
 
